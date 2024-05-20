@@ -1,1 +1,5 @@
-### Project - FoodCity
+- Worked on this during my internship at Adrobit Technologies.
+- Ideated and developed Food-City, a novel web application that enables same-day inter-city food deliveries by utilizing travelers as delivery intermediaries.
+- Built the entire HTML and CSS for the app’s responsive front-end, working alongside professionals who managed advanced front-end and back-end development using JavaScript, jQuery, VueJS, Ajax, Laravel PHP framework and SQL.
+- Gained foundational knowledge of additional front-endtechnologies and the application’s back-end architecture, enhancing my technical proficiency and understanding of web development in a professional setting.
+- Worked along with a team of five other interns, contributing to the project’s success and collective learning.
